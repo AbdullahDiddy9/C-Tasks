@@ -1,2 +1,2 @@
-# C-Tasks
+# C++ Tasks
 my internship c++ tasks

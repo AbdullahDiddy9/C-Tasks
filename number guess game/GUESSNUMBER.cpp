@@ -8,7 +8,7 @@ int main()
     int guess,count=0;
     srand(time(0));
     int n = rand()%100+1;
-    cout << "Total Turns are: " << count <<endl;
+    cout << "Total Turns are: 5" <<endl;
     do{
     cout << "Guess kero: "<<endl;
     cin >> guess;
